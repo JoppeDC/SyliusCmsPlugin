@@ -10,13 +10,13 @@
   "license": "MIT",
   "require": {
     "php": "^8.0",
-    "sylius/sylius": "^1.12.0 || ^1.13.0",
     "league/csv": "^9.1",
     "friendsofsymfony/ckeditor-bundle": "^2.0",
     "instaclick/php-webdriver": "^1.4",
     "symfony/webpack-encore-bundle": "^1.12"
   },
   "require-dev": {
+    "sylius/sylius": "^1.12.0 || ^1.13.0",
     "behat/behat": "^3.7",
     "behat/mink-selenium2-driver": "~1.6.0",
     "dbrekelmans/bdi": "^1.1",
